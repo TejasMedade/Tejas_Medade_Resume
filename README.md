@@ -1,4 +1,4 @@
-## Welcome to my Resume repository!
+## Welcome to my Resume Repository !
 
 This repository contains my most recent resume. I have also added my portfolio website link, LinkedIn, and GitHub profiles in the resume.
 
